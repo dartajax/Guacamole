@@ -3,8 +3,6 @@ do a bunch of stuff to make the greatest guacamole
 DartAjax likes it spicy
 needs Jalapenos 
 
-<<<<<<< HEAD
 chop cilantro and serve on a side plate
-=======
-chop cilantro and serve on the side
->>>>>>> 131c81ad4c2cf859e640b62d3c690683a1e82ffe
+
+
