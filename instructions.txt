@@ -2,3 +2,5 @@ do a bunch of stuff to make the greatest guacamole
 
 DartAjax likes it spicy
 needs Jalapenos 
+
+chop cilantro and serve on a side plate
